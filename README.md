@@ -3,7 +3,7 @@
 **HSE 751: Programming for Health Data Science**
 Dartmouth Geisel School of Medicine · Fall 2026
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/audreybyrne03/HSE751-Final-Project/blob/main/Diabetes_Readmission_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1z7QT8iaLH48S_rJsv-l2-sEu-mNcSuN2?usp=sharing)
 
 ## Overview
 
